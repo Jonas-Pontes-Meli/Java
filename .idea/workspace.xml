@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="273aea30-6c9f-4b3c-ab34-ed1490d3ba02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HorasExtras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="273aea30-6c9f-4b3c-ab34-ed1490d3ba02" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666889389804</updated>
       <workItem from="1666889390999" duration="1574000" />
-      <workItem from="1666891454253" duration="1565000" />
+      <workItem from="1666891454253" duration="2362000" />
     </task>
     <servers />
   </component>
