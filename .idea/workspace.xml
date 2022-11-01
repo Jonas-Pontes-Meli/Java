@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="273aea30-6c9f-4b3c-ab34-ed1490d3ba02" name="Changes" comment="Pasta Aula 1 e Atividade 4">
-      <change afterPath="$PROJECT_DIR$/src/Aula3/CalcularMultiplos.java" afterDir="false" />
+    <list default="true" id="273aea30-6c9f-4b3c-ab34-ed1490d3ba02" name="Changes" comment="Pasta Aula 3 e Atividade 1">
+      <change afterPath="$PROJECT_DIR$/src/Aula4/EncontrarNumeroVetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,8 @@
       <workItem from="1666959398395" duration="6200000" />
       <workItem from="1667254306090" duration="345000" />
       <workItem from="1667254668290" duration="1855000" />
+      <workItem from="1667258093534" duration="139000" />
+      <workItem from="1667320282855" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="Pasta Aula 1">
       <created>1666894306723</created>
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666966861052</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pasta Aula 3 e Atividade 1">
+      <created>1667258128442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667258128442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +111,7 @@
     <MESSAGE value="Pasta Aula 1" />
     <MESSAGE value="Pasta Aula 1 e Atividade 3" />
     <MESSAGE value="Pasta Aula 1 e Atividade 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pasta Aula 1 e Atividade 4" />
+    <MESSAGE value="Pasta Aula 3 e Atividade 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pasta Aula 3 e Atividade 1" />
   </component>
 </project>
