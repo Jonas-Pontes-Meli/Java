@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="273aea30-6c9f-4b3c-ab34-ed1490d3ba02" name="Changes" comment="Pasta Aula 4 e Atividade 2">
-      <change afterPath="$PROJECT_DIR$/src/Aula4/Matriz.java" afterDir="false" />
+    <list default="true" id="273aea30-6c9f-4b3c-ab34-ed1490d3ba02" name="Changes" comment="Pasta Aula 4 e Atividade 3">
+      <change afterPath="$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade1/TesteCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade2/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade2/TesteFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade6/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade6/TesteCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadoObjetos/Metodos/AulaMetodos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula4/VetorIndices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula4/VetorIndices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,59 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OrientadoObjetos.Aula5.Atividade1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteCurso">
+    <configuration name="TesteCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientadoObjetos.Aula5.Atividade1.TesteCliente" />
+      <module name="Aula_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientadoObjetos.Aula5.Atividade1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientadoObjetos.Aula5.Atividade6.TesteCurso" />
+      <module name="Aula_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientadoObjetos.Aula5.Atividade6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientadoObjetos.Aula5.Atividade2.TesteFuncionario" />
+      <module name="Aula_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientadoObjetos.Aula5.Atividade2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteCurso" />
+        <item itemvalue="Application.TesteFuncionario" />
+        <item itemvalue="Application.TesteCliente" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +119,11 @@
       <workItem from="1667254306090" duration="345000" />
       <workItem from="1667254668290" duration="1855000" />
       <workItem from="1667258093534" duration="139000" />
-      <workItem from="1667320282855" duration="4718000" />
+      <workItem from="1667320282855" duration="7928000" />
+      <workItem from="1667343238585" duration="67000" />
+      <workItem from="1667438778375" duration="13000" />
+      <workItem from="1667476612041" duration="2016000" />
+      <workItem from="1667492314434" duration="3334000" />
     </task>
     <task id="LOCAL-00001" summary="Pasta Aula 1">
       <created>1666894306723</created>
@@ -104,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667323843125</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pasta Aula 4 e Atividade 3">
+      <created>1667325037711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667325037711</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +198,23 @@
     <MESSAGE value="Pasta Aula 3 e Atividade 1" />
     <MESSAGE value="Pasta Aula 4 e Atividade 1" />
     <MESSAGE value="Pasta Aula 4 e Atividade 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pasta Aula 4 e Atividade 2" />
+    <MESSAGE value="Pasta Aula 4 e Atividade 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pasta Aula 4 e Atividade 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade1/TesteCliente.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OrientadoObjetos/Aula5/Atividade6/TesteCurso.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

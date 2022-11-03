@@ -31,7 +31,7 @@ public class VetorIndices {
         System.out.println("Elementos nos índices ímpares:"+impar);
         System.out.println("Elementos nos índices pares:"+par);
         System.out.println("Soma : "+soma);
-        System.out.println("Média : "+soma/10);
+        System.out.println("Média : "+soma/vetorNumero.length);
 
     }
 }
