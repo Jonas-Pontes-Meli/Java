@@ -1,4 +1,4 @@
-package OrientadoObjetos.Aula5.Atividade6;
+package OrientadoObjetos.Aula5.Atividade6.model;
 
 public class Curso {
     private  String nome;
@@ -60,7 +60,6 @@ public class Curso {
         System.out.println("Salario:"+ getValor());
         System.out.println("Matricula:"+getMatricula());
         System.out.println("Departamento:"+ getProfessor());
-        System.out.println("\n **********************************");
     }
 
 }

@@ -1,4 +1,4 @@
-package OrientadoObjetos.Aula5.Atividade2;
+package OrientadoObjetos.Aula5.Atividade2.model;
 
 public class Funcionario {
     private  String nome;
@@ -60,6 +60,5 @@ public class Funcionario {
         System.out.println("Salario:"+getSalario());
         System.out.println("Matricula:"+getMatricula());
         System.out.println("Departamento:"+getDepartamento());
-        System.out.println("\n **********************************");
     }
 }
